@@ -71,6 +71,33 @@ Ping, but with a graph.
 
 The netem queue discipline provides Network Emulation functionality for testing protocols by emulating the properties of real-world networks. The queue discipline provides one or more network impairments to packets such as: delay, loss, duplication, and packet corruption.
 
+* [TCP/UDP network infrastructure tool, netstat](https://linux.die.net/man/8/netstat)
+
+The netstat tool does print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships.
+
+Most Common Commands:
+```
+sudo netstat -alnpt | grep ':$PORT'
+```
+
+* [TCP/UDP network infrastructure tool, ss](https://linux.die.net/man/8/netstat)
+
+Another utility to investigate sockets, like netstat, but display more TCP and state informations.
+
+Most Common Commands:
+```
+sudo ss -anpt | grep ':$PORT'
+```
+
+* [TCP/UDP network infrastructure tool, nmap](https://nmap.org/)
+
+The nmap tool does for network discovery and security auditing.
+
+Most Common Commands:
+```
+sudo nmap -sT -O $TARGET_IP
+```
+
 * [TCP/UDP traffic monitoring tool, it groups bandwidth by process, nethogs](https://github.com/raboof/nethogs)
 
 The nethogs tool does for network usage what top does for CPU usage. Instead of breaking the traffic down per protocol or per subnet, like most tools do, it groups bandwidth by process.
