@@ -121,3 +121,26 @@ Ethr provide a native tool for comprehensive network performance measurements of
 * [TCP/UDP network bandwidth measurement tool, iperf3](https://github.com/esnet/iperf)
 
 iperf is a tool for active measurements of the maximum achievable bandwidth on IP networks.
+
+## C/C++ Dev&Ops
+
+*Tools&Libraries for C/C++ Dev&Ops.*
+
+* [gperftools heapprofile by google](https://gperftools.github.io/gperftools/heapprofile.html)
+
+* [gperftools heap-checker by google](https://gperftools.github.io/gperftools/heap_checker.html)
+
+* [gperftools cpuprofile by google](https://gperftools.github.io/gperftools/cpuprofile.html)
+
+* [memory profile tool, valgrind](http://valgrind.org/)
+
+Valgrind is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail.
+
+### Awesome C/C++ Study Materials
+
+* [A curated list of awesome C++ (or C) resources](https://github.com/fffaraz/awesome-cpp)
+* [A curated list of awesome C++ (or C) resources, but more modern](https://github.com/rigtorp/awesome-modern-cpp)
+* [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://github.com/changkun/modern-cpp-tutorial)
+* [A template for modern C++ projects using CMake/Clang-Format/UT/CI, and more](https://github.com/filipdutescu/modern-cpp-template)
+* [Useful CMake Examples](https://github.com/ttroy50/cmake-examples)
+* [C++ Syntax, Data Structures, and Algorithms Cheat Sheet](https://github.com/gibsjose/cpp-cheat-sheet)
