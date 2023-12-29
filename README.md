@@ -9,6 +9,16 @@ A curated list of awesome software development frameworks, libraries, software a
 * [How do I choose an open source LICENSE?](https://choosealicense.com/)
 * [How do I make a good VERSION?](https://semver.org/spec/v2.0.0.html)
 * [How do I make a good CHANGELOG?](https://keepachangelog.com/en/1.1.0/)
+* [Debugging with VSCode](https://code.visualstudio.com/docs/editor/debugging)
+* [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules)
+
+## Awesome Study Materials For Being A Better Engineer
+
+* [The Missing Semester of Your CS Education](https://missing-semester-cn.github.io/)
+* [High Performance Browser Networking](https://hpbn.co/)
+* [The Linux kernel Source Code Online Reading](https://elixir.bootlin.com/linux/v5.2-rc7/source)
+* [The Linux kernel Diagram Online Reading](https://makelinux.github.io/kernel/)
+* [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
 
 ## Http/Https/gRPC Dev&Ops
 
@@ -124,7 +134,7 @@ iperf is a tool for active measurements of the maximum achievable bandwidth on I
 
 ## C/C++ Dev&Ops
 
-*Tools&Libraries for C/C++ Dev&Ops.*
+*Tools&Libraries& for C/C++ Dev&Ops.*
 
 * [gperftools heapprofile by google](https://gperftools.github.io/gperftools/heapprofile.html)
 
@@ -144,3 +154,15 @@ Valgrind is an instrumentation framework for building dynamic analysis tools. Th
 * [A template for modern C++ projects using CMake/Clang-Format/UT/CI, and more](https://github.com/filipdutescu/modern-cpp-template)
 * [Useful CMake Examples](https://github.com/ttroy50/cmake-examples)
 * [C++ Syntax, Data Structures, and Algorithms Cheat Sheet](https://github.com/gibsjose/cpp-cheat-sheet)
+
+## Linux Platforms Dev&Ops
+
+* [a top/htop alternative for GNU/Linux, glances](https://github.com/nicolargo/glances)
+* [Monitor a process and trigger a notification, noti](https://github.com/variadico/noti)
+* [Flexible i/o tester, fio](https://github.com/axboe/fio)
+* [Linux performance analysis tools, perf and more beyond](http://www.brendangregg.com/perf.html)
+* [Manage procfile-based applications, foreman](https://github.com/ddollar/foreman)
+* [A terminal client for MySQL with auto-completion and syntax-highlighting, mycli](https://github.com/dbcli/mycli)
+* [A terminal client for Redis with auto-completion and syntax-highlighting, iredis](https://github.com/laixintao/iredis)
+* [Tool to bootstrap CAs, certificate requests, and signed certificates, certstrap](https://github.com/square/certstrap)
+* [Tool to give warnings and suggestions for bash/sh shell scripts, shellcheck](https://www.shellcheck.net/)
