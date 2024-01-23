@@ -148,6 +148,7 @@ Valgrind is an instrumentation framework for building dynamic analysis tools. Th
 
 ### Awesome C/C++ Study Materials
 
+* [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 * [A curated list of awesome C++ (or C) resources](https://github.com/fffaraz/awesome-cpp)
 * [A curated list of awesome C++ (or C) resources, but more modern](https://github.com/rigtorp/awesome-modern-cpp)
 * [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://github.com/changkun/modern-cpp-tutorial)
