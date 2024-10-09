@@ -56,6 +56,9 @@ and high scalability.
 
 goreplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to 
 continuously test your system with real data.
+* [TCP traffic replay tool, tcpreplay](https://github.com/appneta/tcpreplay)
+
+tcpreplay is a suite of utilities for UNIX (and Win32 under Cygwin) operating systems for editing and replaying network traffic which was previously captured by tools like tcpdump and Wireshark.
 * [gRPC request tool, grpcurl](https://github.com/fullstorydev/grpcurl)
 
 grpcurl is like 'curl' but for gRPC.
@@ -68,6 +71,7 @@ ghz is a modern gRPC benchmarking and load testing tool.
 
 A suite of gRPC debugging tools. Like Fiddler/Charles but for gRPC.
 
+* [Web App Stress Test](https://pagespeed.web.dev/)
 
 ## TCP/IP Network Dev&Ops
 
@@ -137,11 +141,8 @@ iperf is a tool for active measurements of the maximum achievable bandwidth on I
 *Tools&Libraries& for C/C++ Dev&Ops.*
 
 * [gperftools heapprofile by google](https://gperftools.github.io/gperftools/heapprofile.html)
-
 * [gperftools heap-checker by google](https://gperftools.github.io/gperftools/heap_checker.html)
-
 * [gperftools cpuprofile by google](https://gperftools.github.io/gperftools/cpuprofile.html)
-
 * [memory profile tool, valgrind](http://valgrind.org/)
 
 Valgrind is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail.
@@ -155,6 +156,14 @@ Valgrind is an instrumentation framework for building dynamic analysis tools. Th
 * [A template for modern C++ projects using CMake/Clang-Format/UT/CI, and more](https://github.com/filipdutescu/modern-cpp-template)
 * [Useful CMake Examples](https://github.com/ttroy50/cmake-examples)
 * [C++ Syntax, Data Structures, and Algorithms Cheat Sheet](https://github.com/gibsjose/cpp-cheat-sheet)
+
+## Python Dev&Ops
+
+*Tools&Libraries& for Python Dev&Ops.*
+
+* [A high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals, scalene](https://github.com/plasma-umass/scalene)
+* [Create Call Graphs for Python Programs, pycallgraph](https://github.com/gak/pycallgraph)
+* [Matplotlib Cheat Sheet](https://github.com/matplotlib/cheatsheets)
 
 ## Linux Platforms Dev&Ops
 

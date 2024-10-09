@@ -1,0 +1,53 @@
+## C && C++
+* C/C++ from Microsoft
+* C/C++ Extension Pack from Microsoft
+* C/C++ Themes from Microsoft
+* Better C++ Syntax from Microsoft
+* CMake from twxs
+* CMake Tools from Microsoft
+
+## Python
+* Python from Microsoft
+
+## Golang
+* Go from Go Team at Google
+* Optimizer Studio from Concertio
+
+## Solidity 
+* solidity from Juan Blanco
+
+## Protobuf
+* vscode-proto3 from zxh404
+
+## Json && Yaml && Markdown
+* Prettify JSON from Mohsen Azimi
+* YAML from Red Hat
+* Markdown Preview Enhanced from Yiyi Wang
+* Markdown PDF from yzane
+
+## JS/H5/CSS3
+* Vetur from Pine Wu
+* HTML CSS Support from ecmel
+
+## Docker + Kubernetes
+* Docker from Microsoft
+* Docker Compose from p1c2u
+* Kubernetes from Microsoft
+
+## Collaboration
+* GitLens — Git supercharged from GitKraken
+* Git History from Don Jayamanne
+* Git Graph from mhutchie
+* Remote - SSH from Microsoft
+
+## Others
+* nginx.conf from shanoor
+* Apache Conf from mrmlnc
+* Rainbow CSV from mechatroner
+* PlantUML from jebbs
+* Todo Tree from Gruntfuggly
+* indent-rainbow from oderwat
+* Better Comments from Aaron Bond
+* Bracket Pair Colorizer from CoenraadS
+* Partial Diff from Ryuichi Inagaki
+* LeetCode from 力扣 LeetCode
