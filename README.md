@@ -371,6 +371,7 @@ Useful web-based utilities for developers.
 - [Chinese Traditional Colors](https://colors.ichuantong.cn/) - Reference for traditional Chinese color palettes.
 - [English Font Generator](http://www.akuziti.com/yw/hk.php) - Generate beautiful English fonts (Chinese).
 - [Mac Software Downloads](https://www.macbl.com/) - Mac application downloads (Chinese).
+- [NextJSON](https://nextjson.com/) - Free online nested JSON parser, formatter and toolbox.
 
 ---
 
